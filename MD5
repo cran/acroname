@@ -1,0 +1,17 @@
+48e09495f22f709749c7af88ce9b39c5 *DESCRIPTION
+53ad469e15d6d6572a29741c10f77ca9 *NAMESPACE
+ae0962861bf7c4b2708bf5805318daef *NEWS.md
+39c1e2f4550a8502a83586490cb143d5 *R/engines.R
+74a2df0d78453399a9d1c34e0884f0f0 *R/globals.R
+65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
+4d17bb65572d1b56a430c64651a835ab *R/utils.R
+7393112c6e73dd1f41b4c202f05f733e *README.md
+33b331ff9f7e13a7460e6ecc301b79d7 *man/engines.Rd
+9c23462ecf0ea8efd7bc8dbeb6887759 *man/find_articles.Rd
+1800d18470965ce3de9dee97cf09012e *man/find_candidate.Rd
+de46e0f77cbdd90df8257782e5db1198 *man/first_char.Rd
+a8f9faadaddcf463462b3e1be9c9b457 *man/mince.Rd
+4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
+4f1afd6bf871730edc3fd409f584d730 *tests/testthat.R
+4c613475cf63d12f5d30dca362455a4d *tests/testthat/test-engines.R
+e1d6206abe4ceacf6015b7aa6fd37950 *tests/testthat/test-utils.R
